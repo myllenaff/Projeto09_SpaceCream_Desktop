@@ -6,7 +6,7 @@
 
 Projeto 09 - SPACE CREAM (Desktop) construído na Jornada Explorer do Rocketseat.
 
-[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto09_SpaceCream_desktop/)
+[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto09_SpaceCream_Desktop/)
 
 ## 💻 Tecnologias:
 
