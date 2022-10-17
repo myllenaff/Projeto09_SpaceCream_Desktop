@@ -1,6 +1,6 @@
 # Explorer - Desafio
 
-![preview](.github/preview.gif)
+![preview](.github/preview.png)
 
 > Explorer - Rocketseat
 
