@@ -4,9 +4,9 @@
 
 > Explorer - Rocketseat
 
-Projeto 08 - SPACE CREAM construído na Jornada Explorer do Rocketseat.
+Projeto 09 - SPACE CREAM (Desktop) construído na Jornada Explorer do Rocketseat.
 
-[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto08_SpaceCream/)
+[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto09_SpaceCream_desktop/)
 
 ## 💻 Tecnologias:
 
